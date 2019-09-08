@@ -1,0 +1,13 @@
+Package: net.angelxwind.appsyncunified_41.1-NoA12
+Name: AppSync Unified (NO A12 SUPPORT)
+Version: 41.1-NoA12
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Maintainer: CAMBGILES <contact@cambgiles.com>
+Author: Karen/あけみ <karen@akemi.ai>
+Section: Tweaks
+Filename: debs/net.angelxwind.appsyncunified_41.1-NoA12.deb
+Size: 33870
+MD5sum: e7636c1c38a61cd179401fd6c49dfde3
+SHA1: c5539996de2a1578cba1ec6138106b62f06fc119
+SHA256: 7e736ccf049c75c6cca41b94c47dd6bf742d01c3317f9163637b63efd7d9460a
